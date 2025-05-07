@@ -6,5 +6,5 @@ Repertoire d'entrainement pour Git et Github.
 ## Quiz
 mise en place d'un classe pour faire des quiz.
 ## ToDo
-il s'agit d'implémenter une To Do List pour le 3 ème jour.
+il s'agit d'implémenter une [To Do List](ToDo/Todo.ipynb) pour le 3 ème jour.
 
