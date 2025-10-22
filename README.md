@@ -93,7 +93,7 @@ Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de déci
 
 Tensorflow · PyTorch · Transformers · NLP
 
-### :oasis: 6. Projet collectif Oasis
+### 🏝️ 6. Projet collectif Oasis
 
 #### Oasis
 
