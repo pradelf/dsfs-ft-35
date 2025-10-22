@@ -18,13 +18,13 @@ pip install -e git+https://github.com/pradelf/fpcia.git#egg=fpcia
 
 à l'issue de ces opérations, vous aurez la libraire python nécessaire pour l'execution des projets : FPCIA [https://github.com/pradelf/fpcia](https://github.com/pradelf/fpcia)
 
-- Speed Dating : [https://github.com/pradelf/speeddating](https://github.com/pradelf/speeddating)
 - Kayak : [https://github.com/pradelf/kayak](https://github.com/pradelf/kayak)
+- Speed Dating : [https://github.com/pradelf/speeddating](https://github.com/pradelf/speeddating)
 - Conversion Challenge : [https://github.com/pradelf/conversion-rate-challenge](https://github.com/pradelf/conversion-rate-challenge)
+- Walmart Sales : [https://github.com/pradelf/Walmart-sales](https://github.com/pradelf/Walmart-sales)
 - Uber Pickups : [https://github.com/pradelf/uberpickups](https://github.com/pradelf/uberpickups)
+- ATT Spam Detector : [https://github.com/pradelf/att](<https://github.com/pradelf/att>)
 - Get Around : [https://github.com/pradelf/getaround](https://github.com/pradelf/getaround)]
-- Wall Mart Sales : [https://github.com/pradelf/Walmart-sales](https://github.com/pradelf/Walmart-sales)
-- ATT : [https://github.com/pradelf/att](<https://github.com/pradelf/att>)
 - OASIS (projet collectif) : [https://github.com/pradelf/oasis](https://github.com/pradelf/oasis)
 
 Le projet [Steam](https://github.com/pradelf/steam) est particulier car il est nécessaire de la faire executer dans l'environnement [Databricks](https://www.databricks.com/fr)
@@ -68,12 +68,12 @@ Pandas · Numpy · Seaborn · Matplotlib
 
 - Modélisation du taux de conversion d’une newsletter à partir de variables déséquilibrées
 
-#### Walmart
+#### Walmart Sales
 
 - Estimation des ventes hebdomadaires des magasins
 - Interprétation des indicateurs économiques pour planifier les campagnes marketing
 
-####  Uber
+####  Uber Pickups
 
 - Optimisation du temps d’attente des clients
 - Création d’algorithmes de détection de zones chaudes (hot-zones) selon l’heure de la journée
