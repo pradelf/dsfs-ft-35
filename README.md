@@ -49,7 +49,7 @@ Génération de cartes interactives illustrant les températures quotidiennes et
 
 ##### Tech Stack
 
-APIs · BeautifulSoup · Boto3 · AWS S3 · AWS RDS · SQL · SQLAlchemy · Plotly
+APIs · Scrapy · Boto3 · AWS S3 · AWS RDS · SQL · SQLAlchemy · Plotly
 
 ### 🔍 Bloc 2. Analyse exploratoire, descriptive et inférentielle de données (EDA)
 
@@ -60,7 +60,7 @@ APIs · BeautifulSoup · Boto3 · AWS S3 · AWS RDS · SQL · SQLAlchemy · Plot
 
 #####  Tech Stack
 
-Pandas · Numpy · Seaborn · Matplotlib
+Pandas · Numpy · Plotly · Matplotlib
 
 ### 🤖 Bloc 3. Analyse prédictive de données structurées par l'intelligence artificielle (IA & Machine Learning)
 
@@ -80,7 +80,7 @@ Pandas · Numpy · Seaborn · Matplotlib
 
 ##### Tech Stack
 
-Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de décision · Forêts aléatoires · Boosting · GridSearch · Validation croisée · K-Means · DBSCAN · Mélange gaussien · KNN
+Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de décision · Forêts aléatoires · Boosting · GridSearch · Validation croisée · K-Means · DBSCAN · Mélange gaussien
 
 ### 💬 Bloc 4. Analyse prédictive de données non-structurées par l'intelligence artificielle
 
@@ -91,11 +91,15 @@ Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de déci
 
 ##### Tech Stack
 
-Tensorflow · PyTorch · Transformers · NLP
+PyTorch · Transformers · NLP
 
 ### 🏭 Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
 ### Get Around
 
+
+##### Tech Stack
+
+APIs · Docker · MLFlow · Streamlit · Plotly
 
 ### 🏝️ Bloc 6. Direction de projets de gestion de données (Projet collectif)
 
@@ -104,3 +108,8 @@ Tensorflow · PyTorch · Transformers · NLP
 🏠 Ce projet vise à prédire les prix de l’immobilier, en se concentrant principalement sur l’impact des événements climatiques.
 Notre objectif est d’identifier les zones sûres et rentables en analysant comment différents phénomènes météorologiques et climatiques influencent la valeur des biens.
 À mesure que le projet évoluera, nous prévoyons d’intégrer d’autres événements majeurs susceptibles d’affecter les prix de l’immobilier.
+
+
+##### Tech Stack
+
+Pandas · Numpy · Plotly · LightGBM · MLFlow · Streamlit · Hugging Face · Boto3 · AWS S3
