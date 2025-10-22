@@ -16,7 +16,7 @@ pip install -e git+https://github.com/pradelf/fpcia.git#egg=fpcia
 
 ```
 
-à l'issue de ces opérations, vous aurez la libraire python nécessaire pour l'execution des projets :
+à l'issue de ces opérations, vous aurez la libraire python nécessaire pour l'execution des projets : FPCIA [https://github.com/pradelf/fpcia](https://github.com/pradelf/fpcia)
 
 - Speed Dating : [https://github.com/pradelf/speeddating](https://github.com/pradelf/speeddating)
 - Kayak : [https://github.com/pradelf/kayak](https://github.com/pradelf/kayak)
