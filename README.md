@@ -42,10 +42,10 @@ Vous pouvez vérifer votre environnement local d'évaluation avec la commande ``
 
 #### Kayak
 
-Extraction automatisée des informations sur les hôtels et la météo pour une liste donnée de villes
-Stockage des données nettoyées dans AWS S3, puis transfert vers une base AWS RDS
-Requêtes SQL pour sélectionner les meilleures villes selon les conditions météo
-Génération de cartes interactives illustrant les températures quotidiennes et les gammes de prix des hôtels.
+- Extraction automatisée des informations sur les hôtels et la météo pour une liste donnée de villes
+- Stockage des données nettoyées dans AWS S3, puis transfert vers une base AWS RDS
+- Requêtes SQL pour sélectionner les meilleures villes selon les conditions météo
+- Génération de cartes interactives illustrant les températures quotidiennes et les gammes de prix des hôtels.
 
 ##### Tech Stack
 
@@ -94,8 +94,11 @@ Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de déci
 PyTorch · Transformers · NLP
 
 ### 🏭 Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
-### Get Around
 
+### Get Around
+- Analyser les retards de restitution des véhicules afin de mesurer leur impact sur la satisfaction client et la planification des locations suivantes.
+- Déterminer le délai minimal optimal entre deux locations pour réduire les frictions tout en préservant les revenus des propriétaires et de la plateforme.
+- Développer un modèle de prédiction et une API /predict pour optimiser la tarification des locations grâce au Machine Learning.
 
 ##### Tech Stack
 
@@ -105,7 +108,7 @@ APIs · Docker · MLFlow · Streamlit · Plotly
 
 #### Oasis
 
-🏠 Ce projet vise à prédire les prix de l’immobilier, en se concentrant principalement sur l’impact des événements climatiques.
+- Ce projet vise à prédire les prix de l’immobilier, en se concentrant principalement sur l’impact des événements climatiques.
 Notre objectif est d’identifier les zones sûres et rentables en analysant comment différents phénomènes météorologiques et climatiques influencent la valeur des biens.
 À mesure que le projet évoluera, nous prévoyons d’intégrer d’autres événements majeurs susceptibles d’affecter les prix de l’immobilier.
 
