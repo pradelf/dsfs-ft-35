@@ -23,7 +23,7 @@ pip install -e git+https://github.com/pradelf/fpcia.git#egg=fpcia
 - Conversion Challenge : [https://github.com/pradelf/conversion-rate-challenge](https://github.com/pradelf/conversion-rate-challenge)
 - Uber Pickups : [https://github.com/pradelf/uberpickups](https://github.com/pradelf/uberpickups)
 - Get Around : [https://github.com/pradelf/getaround](https://github.com/pradelf/getaround)]
-- Wall Mart Sales :
+- Wall Mart Sales : [https://github.com/pradelf/Walmart-sales](https://github.com/pradelf/Walmart-sales)
 - ATT : [https://github.com/pradelf/att](<https://github.com/pradelf/att>)
 - OASIS (projet collectif) :
 
