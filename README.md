@@ -25,7 +25,7 @@ pip install -e git+https://github.com/pradelf/fpcia.git#egg=fpcia
 - Get Around : [https://github.com/pradelf/getaround](https://github.com/pradelf/getaround)]
 - Wall Mart Sales : [https://github.com/pradelf/Walmart-sales](https://github.com/pradelf/Walmart-sales)
 - ATT : [https://github.com/pradelf/att](<https://github.com/pradelf/att>)
-- OASIS (projet collectif) :
+- OASIS (projet collectif) : [https://github.com/pradelf/oasis](https://github.com/pradelf/oasis)
 
 Le projet [Steam](https://github.com/pradelf/steam) est particulier car il est nécessaire de la faire executer dans l'environnement [Databricks](https://www.databricks.com/fr)
 si vous voulez exporter les dépendances des projets, vous pouvez utiliser la commande :
