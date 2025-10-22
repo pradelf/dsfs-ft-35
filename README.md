@@ -38,7 +38,7 @@ Vous pouvez vérifer votre environnement local d'évaluation avec la commande ``
 
 ##  💾 Projets de Data Science & Machine Learning
 
-###  🧱 1. Construction et mise en place d’une infrastructure de gestion de données
+###  🧱 Bloc 1. Construction et mise en place d’une infrastructure de gestion de données
 
 #### Kayak
 
@@ -51,7 +51,7 @@ Génération de cartes interactives illustrant les températures quotidiennes et
 
 APIs · BeautifulSoup · Boto3 · AWS S3 · AWS RDS · SQL · SQLAlchemy · Plotly
 
-### 🔍 2. Analyse exploratoire de données (EDA)
+### 🔍 Bloc 2. Analyse exploratoire de données (EDA)
 
 ####  Speed Dating
 
@@ -62,7 +62,7 @@ APIs · BeautifulSoup · Boto3 · AWS S3 · AWS RDS · SQL · SQLAlchemy · Plot
 
 Pandas · Numpy · Seaborn · Matplotlib
 
-### 🤖 3. Analyse prédictive de données structurées (IA & Machine Learning)
+### 🤖 Bloc 3. Analyse prédictive de données structurées (IA & Machine Learning)
 
 #### Conversion Challenge
 
@@ -82,7 +82,7 @@ Pandas · Numpy · Seaborn · Matplotlib
 
 Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de décision · Forêts aléatoires · Boosting · GridSearch · Validation croisée · K-Means · DBSCAN · Mélange gaussien · KNN
 
-### 💬 4. Analyse prédictive de données non structurées
+### 💬 Bloc 4. Analyse prédictive de données non structurées
 
 #### AT&T Spam Detector
 
@@ -92,6 +92,10 @@ Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de déci
 ##### Tech Stack
 
 Tensorflow · PyTorch · Transformers · NLP
+
+### Bloc 5 : 
+### Get Around
+
 
 ### 🏝️ 6. Projet collectif Oasis
 
