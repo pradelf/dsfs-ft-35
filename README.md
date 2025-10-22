@@ -92,3 +92,11 @@ Scikit-learn · XGBoost · Régression linéaire / logistique · Arbres de déci
 ##### Tech Stack
 
 Tensorflow · PyTorch · Transformers · NLP
+
+### :oasis: 6. Projet collectif Oasis
+
+#### Oasis
+
+🏠 Ce projet vise à prédire les prix de l’immobilier, en se concentrant principalement sur l’impact des événements climatiques.
+Notre objectif est d’identifier les zones sûres et rentables en analysant comment différents phénomènes météorologiques et climatiques influencent la valeur des biens.
+À mesure que le projet évoluera, nous prévoyons d’intégrer d’autres événements majeurs susceptibles d’affecter les prix de l’immobilier.
