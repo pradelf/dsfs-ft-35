@@ -24,7 +24,7 @@ pip install -e git+https://github.com/pradelf/fpcia.git#egg=fpcia
 - Walmart Sales : [https://github.com/pradelf/Walmart-sales](https://github.com/pradelf/Walmart-sales)
 - Uber Pickups : [https://github.com/pradelf/uberpickups](https://github.com/pradelf/uberpickups)
 - ATT Spam Detector : [https://github.com/pradelf/att](<https://github.com/pradelf/att>)
-- Get Around : [https://github.com/pradelf/getaround](https://github.com/pradelf/getaround)]
+- Get Around : [https://github.com/pradelf/getaround](https://github.com/pradelf/getaround)
 - OASIS (projet collectif) : [https://github.com/pradelf/oasis](https://github.com/pradelf/oasis)
 
 Le projet [Steam](https://github.com/pradelf/steam) est particulier car il est nécessaire de la faire executer dans l'environnement [Databricks](https://www.databricks.com/fr)
